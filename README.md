@@ -35,17 +35,11 @@ A comprehensive tool to count and analyze media, interactive, and chart elements
    cd web-element-analyzer
    ```
 
-2. **Install Python dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Setup ChromeDriver**:
+2. **Setup ChromeDriver**:
 
    * Ensure `chromedriver` is on your system `PATH`.
 
-4. **Install Robot Framework (for tests)**:
+3. **Install Robot Framework (for tests)**:
 
    ```bash
    pip install robotframework
