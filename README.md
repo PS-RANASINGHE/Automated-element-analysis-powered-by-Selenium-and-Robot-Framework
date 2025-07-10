@@ -31,7 +31,7 @@ A comprehensive tool to count and analyze media, interactive, and chart elements
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/web-element-analyzer.git
+   git clone https://github.com/PS-RANASINGHE/Automated-element-analysis-powered-by-Selenium-and-Robot-Framework
    cd web-element-analyzer
    ```
 
