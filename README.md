@@ -8,7 +8,11 @@ Websites differ wildly in their DOM hierarchies, naming conventions, dynamic con
 ---
 
 
-https://github.com/user-attachments/assets/0059b634-f62a-40ab-a0da-7de9d929980c
+
+
+
+https://github.com/user-attachments/assets/5f1200db-905b-4bda-9a0b-6ac515ddf9f5
+
 
 
 
@@ -17,6 +21,10 @@ https://github.com/user-attachments/assets/0059b634-f62a-40ab-a0da-7de9d929980c
 To replicate and run this project locally, ensure you have:
 
 * **Python 3.7+** installed
+
+
+
+
 * **pip** package manager
 * **Google Chrome** browser
 * **ChromeDriver** (matching your Chrome version) on your system `PATH`
