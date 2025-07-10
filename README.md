@@ -50,7 +50,7 @@ To replicate and run this project locally, ensure you have:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/PS-RANASINGHE/web-element-analyzer.git
+   git clone https://github.com/PS-RANASINGHE/Automated-element-analysis-powered-by-Selenium-and-Robot-Framework/tree/main
    cd web-element-analyzer
    ```
 
@@ -162,7 +162,3 @@ robot --variable TEST_URL:<YourTestPageURL> count_elements_tests.robot
 Contributions welcome! Please open issues for bugs or submit pull requests for enhancements. Clear guidelines are in `CONTRIBUTING.md`.
 
 ---
-
-## License
-
-Released under the MIT License. See [LICENSE](LICENSE) for details.
