@@ -56,18 +56,12 @@ To replicate and run this project locally, ensure you have:
    cd web-element-analyzer
    ```
 
-2. **Install Dependencies**:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. **Setup ChromeDriver**:
 
-3. **Setup ChromeDriver**:
-
-   * Download from [https://sites.google.com/a/chromium.org/chromedriver/](https://sites.google.com/a/chromium.org/chromedriver/) matching your Chrome version.
    * Place `chromedriver` in a directory on your system `PATH`.
 
-4. **Verify Robot Framework**:
+3. **Verify Robot Framework**:
 
    ```bash
    pip install robotframework
