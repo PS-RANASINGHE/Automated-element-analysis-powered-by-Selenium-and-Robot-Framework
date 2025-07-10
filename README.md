@@ -93,37 +93,8 @@ python count_elements.py <URL>
 
 This prints a summary of all detected elements to the console.
 
-### 2. Python Library
 
-Embed the element-counting logic directly in your own Python code or automated tests, without using the CLI or GUI.
-
-```python
-# Import the Robot Framework keyword wrapper
-from CountElementsLibrary import CountElementsLibrary
-
-# Instantiate the library helper
-cel = CountElementsLibrary()
-
-# Run the element counter against any public URL
-results = cel.count_media_elements('https://example.com', timeout=15)
-
-# The returned `results` is a Python dict with keys matching the report sections:
-# - Scalar counts: 'total_img_tags', 'videos', 'svg_charts', etc.
-# - Lists: 'link_hrefs' (list of URLs), 'button_labels' (list of button texts), 'onclick_tags'.
-# - Nested data: 'tables_data' is a list of tables, each table is a list of rows, each row is a list of cell texts.
-
-print("Image tags:", results['total_img_tags'])
-print("Video count:", results['videos'])
-print("First table, first row:", results['tables_data'][0][0])
-```
-
-Use this approach to:
-
-* Integrate element counts into custom reporting pipelines.
-* Assert expected counts in unit tests or CI workflows.
-* Feed the `results` dict into other analysis, logging, or alerting systems.
-
-### 3. GUI Application GUI Application
+### 2. GUI Application GUI Application
 
 Launch the Tkinter-based interface:
 
