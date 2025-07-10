@@ -53,7 +53,6 @@ To replicate and run this project locally, ensure you have:
 
    ```bash
    git clone https://github.com/PS-RANASINGHE/Automated-element-analysis-powered-by-Selenium-and-Robot-Framework/tree/main
-   cd web-element-analyzer
    ```
 
 
