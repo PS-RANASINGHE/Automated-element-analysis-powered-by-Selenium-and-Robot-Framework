@@ -1,7 +1,9 @@
 # Automated-element-analysis-powered-by-Selenium-and-Robot-Framework
 
 
-A comprehensive tool to count and analyze media, interactive, and chart elements on any web page. Built with Selenium for scraping, ReportLab for PDF generation, and a Tkinter GUI for user-friendly interaction. Includes a Robot Framework test suite for quality assurance.
+A comprehensive tool to count and analyze media, interactive and chart elements on any web page. Built with Selenium for scraping, ReportLab for PDF generation, and a Tkinter GUI for user-friendly interaction. Includes a Robot Framework test suite for quality assurance. Robot Framework (via its SeleniumLibrary) excels at automating interactions against a known fixed page structure—because you typically write keywords that target specific locators (IDs, XPaths, CSS selectors etc.).
+
+Websites differ wildly in their DOM hierarchies, naming conventions, dynamic content loading, and JavaScript behaviors.
 
 ---
 
