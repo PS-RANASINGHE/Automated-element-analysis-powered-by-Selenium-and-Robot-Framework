@@ -134,6 +134,4 @@ Contributions are welcome! Please open issues for bugs or submit pull requests f
 
 ---
 
-## License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
