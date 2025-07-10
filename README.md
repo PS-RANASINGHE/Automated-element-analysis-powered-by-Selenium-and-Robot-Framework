@@ -155,6 +155,6 @@ robot --variable TEST_URL:<YourTestPageURL> count_elements_tests.robot
 
 ## Contributing
 
-Contributions welcome! Please open issues for bugs or submit pull requests for enhancements. Clear guidelines are in `CONTRIBUTING.md`.
+Contributions welcome! Please open issues for bugs or submit pull requests for enhancements. 
 
 ---
