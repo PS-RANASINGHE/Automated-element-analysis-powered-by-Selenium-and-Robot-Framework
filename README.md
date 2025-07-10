@@ -7,6 +7,11 @@ Websites differ wildly in their DOM hierarchies, naming conventions, dynamic con
 
 ---
 
+
+https://github.com/user-attachments/assets/0059b634-f62a-40ab-a0da-7de9d929980c
+
+
+
 ## Requirements
 
 To replicate and run this project locally, ensure you have:
