@@ -43,7 +43,6 @@ A comprehensive tool to count and analyze media, interactive, and chart elements
 
 3. **Setup ChromeDriver**:
 
-   * Download and install [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) matching your Chrome version.
    * Ensure `chromedriver` is on your system `PATH`.
 
 4. **Install Robot Framework (for tests)**:
